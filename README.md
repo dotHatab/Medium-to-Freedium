@@ -16,7 +16,7 @@ Since the extension is not published on the Chrome Web Store yet, you can instal
    ```bash
    
    git clone https://github.com/dotHatab/Medium-to-Freedium.git
-2. Open Chrome and go to: ```bash chrome://extensions/```
+2. Open Chrome and go to: ``` chrome://extensions/```
 3. Enable **Developer mode** (top right corner).
 4. Click on **Load unpacked**.
 5. Select the folder that contains the extension files.
