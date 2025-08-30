@@ -29,7 +29,7 @@ The extension will now appear in your extensions list.
 ###  Temporary Install (until approved)
 1. Open Firefox and go to: ``` about:debugging#/runtime/this-firefox ```
 2. Click on **Load Temporary Add-on**.
-3. Select the `manifest.json` file from this repository.
+3. Select the `manifest.json` file.
 4. The extension will load and work immediately.  
 
 **Note**: Temporary add-ons will be removed once you restart Firefox. You will need to reload it again each time you restart.
